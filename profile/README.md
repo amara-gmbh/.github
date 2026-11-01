@@ -41,7 +41,7 @@ We build products and advise organisations on trustworthy technology, with a foc
 
 [Explore the project](https://github.com/amara-gmbh/amara-unfold) · [amara Unfold website](https://amaraunfold.de) · [Mac preview](https://github.com/amara-gmbh/amara-unfold/releases/tag/v2026.9.21-mac-preview.2)
 
-[![amara Unfold scan view showing supported application sources](https://raw.githubusercontent.com/amara-gmbh/amara-unfold/a2070d3d286728e745191520ca19fdbb67c59aa8/assets/screenshots/scan-application-sources.png)](https://github.com/amara-gmbh/amara-unfold)
+[![amara Unfold scan view showing supported application sources](https://raw.githubusercontent.com/amara-gmbh/amara-unfold/fd787b4e87fc88367d8cfdbdd344f057de8b372d/assets/screenshots/scan-application-sources.png)](https://github.com/amara-gmbh/amara-unfold)
 
 ---
 
