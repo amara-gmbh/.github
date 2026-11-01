@@ -4,17 +4,28 @@
 
 # amara
 
-**Information security, useful tools and room for creativity.**
+**One group. One shared standard.**
 
-Software and consulting from amara information security GmbH.
+Trustworthy technology, products and advisory from amara information security GmbH.
 
 [amara.gmbh](https://amara.gmbh) · [LinkedIn](https://www.linkedin.com/company/amara-information-security/)
 
 </div>
 
-## What we build
+## The amara group
 
-We work across information security, governance, risk and compliance, and create tools that make information more accessible and technology more enjoyable.
+We build products and advise organisations on trustworthy technology, with a focus on security, data control and accountable decisions.
+
+- **amara GRC / askamara** — an enterprise platform for governance, risk and compliance, with workflows to explore and guided demonstrations.
+- **amara Consult** — advisory for AI security and assurance, governance, audit readiness and secure adoption.
+- **amara Memory** — a personal memory concept; the public preview shows a Life Map with connected entries and sources.
+- **amara Health** — a practice platform for records, appointments and organisation, alongside website and online reception offerings. Public examples use fictional data.
+- **amara Web Design** — distinctive websites with clear content, mobile-friendly design and personal creative direction.
+- **amara Unfold** and **amara music visualiser** — the public projects featured below.
+
+[Explore the amara group](https://amara.gmbh/)
+
+## Public projects
 
 ### [amara music visualiser](https://github.com/amara-gmbh/amara-music-visualiser)
 
