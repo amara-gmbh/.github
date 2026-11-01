@@ -12,8 +12,7 @@ amara information security GmbH develops software and provides consulting across
 
 ## Projects
 
-**amara Music Visualiser** explores music through responsive visual worlds.
+[**amara music visualiser**](https://github.com/amara-gmbh/amara-music-visualiser) explores music through responsive visual worlds.
 
-**amara Unfold** helps people turn selected personal data exports into readable, open files.
+[**amara Unfold**](https://github.com/amara-gmbh/amara-unfold) helps people turn selected personal data exports into readable, open files.
 
-Our public project repositories and documentation are being prepared.
